@@ -6,7 +6,8 @@
 <a href=#><img src="https://www.dl.dropboxusercontent.com/s/pgtbdrocm2i27zp/contributions.svg?dl=0"></a>
 
  <p align="center"> 
-  Visitor count<br>
+  Visitor count
+  <br>
   
   <img src="https://www.dl.dropboxusercontent.com/s/izezdmtvho9y2xo/count.svg" align="center">
 </p>
@@ -25,7 +26,6 @@
 
 
 ![Kirui ELisha's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KiruiElisha&custom_title=Elisha's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
-
 
 <div align="center">
   <h2> <strong> 🏆 My Github Stats 🏆</strong> </h2><br>
