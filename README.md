@@ -17,9 +17,9 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KiruiElisha&show_icons=true&locale=en&layout=compact" alt="Elisha" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KiruiElisha&show_icons=true&locale=en" alt="Elisha" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KiruiElisha&show_icons=true&locale=en" alt="Elisha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KiruiElisha&" alt="Elisha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KiruiElisha&" alt="Elisha" /></p> -->
 
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiruiElisha&theme=github_dark)
