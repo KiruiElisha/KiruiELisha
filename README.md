@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1587F7&background=2DFF7200&center=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&vCenter=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&repeat=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&width=560&height=80&lines=Hi%2C+My+name+is+Ronoh.+I+am+a+Software+Engineer,+Ooooh+,+I+mean+Python+Developer.+;DM,+Code+with+me+let's+innovate+and+build+crazy+stuff+together!+My+Email+is+ronoelisha625@gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1587F7&background=2DFF7200&center=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&vCenter=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&repeat=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&width=560&height=80&lines=Hi%2C+My+name+is+Ronoh.+I+am+a+Software+Engineer,+Ooooh+,+I+mean+Python+Developer.+;DM,+Code+with+me+let's+innovate+and+build+together!+My+Email+is+ronoelisha625@gmail.com)](https://git.io/typing-svg)
 
 
 ![68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966](https://user-images.githubusercontent.com/89845641/219041405-1247bfad-3566-498d-9e5e-6ef49ed298c1.gif)
@@ -28,7 +28,7 @@
 ![Kirui ELisha's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KiruiElisha&custom_title=Elisha's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
 
 <div align="center">
-  <h2> <strong> 🏆 My Github Stats 🏆</strong> </h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=KiruiELisha&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+<!--   <h2> <strong> 🏆 My Github Stats 🏆</strong> </h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=KiruiELisha&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br> -->
  
 </div> <br>
